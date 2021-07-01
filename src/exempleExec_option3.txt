@@ -1,0 +1,160 @@
+Cette application permet d'executer diverses requetes pour rechercher des livres
+dans une bibliotheque donnee. Elle permet plus particulierement de faire des
+recherches par categorie(s), par expression dans le titre, par auteur, et par
+periode de publication.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 3
+
+*** RECHERCHE PAR AUTEUR ***
+
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : e
+
+Erreur, le nom de l'auteur doit contenir au moins 3 caracteres ! Recommencez...
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : bo
+
+Erreur, le nom de l'auteur doit contenir au moins 3 caracteres ! Recommencez...
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : 
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 3
+
+*** RECHERCHE PAR AUTEUR ***
+
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : 
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 3
+
+*** RECHERCHE PAR AUTEUR ***
+
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : bro
+
+REQUETE : Le nom de l'auteur est BRO
+
+AUCUN LIVRE TROUVE.
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 3
+
+*** RECHERCHE PAR AUTEUR ***
+
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : brown
+
+REQUETE : Le nom de l'auteur est BROWN
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- ORIGINE (2017), D. BROWN [ thriller, policier ]
+- MARTIENS, GO HOME! (2000), F. BROWN [ science fiction, humour ]
+- UNE MINUTE A LA MER (2010), V. C. BROWN [ humour, thriller ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 3
+
+*** RECHERCHE PAR AUTEUR ***
+
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : brown
+
+REQUETE : Le nom de l'auteur est BROWN
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- ORIGINE (2017), D. BROWN [ thriller, policier ]
+- MARTIENS, GO HOME! (2000), F. BROWN [ science fiction, humour ]
+- UNE MINUTE A LA MER (2010), V. C. BROWN [ humour, thriller ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 3
+
+*** RECHERCHE PAR AUTEUR ***
+
+Entrez le nom de l'auteur (<ENTREE> pour terminer) : NaTAF
+
+REQUETE : Le nom de l'auteur est NATAF
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- LE FILS CACHE DE LA LUNE (2018), E. NATAF [ science fiction, humour, thriller ]
+- LE LAMPADAIRE ETERNEL (2006), M. NATAF [ science ficiton, romance ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 5
+
+
+AUREVOIR !

@@ -1,0 +1,112 @@
+Cette application permet d'executer diverses requetes pour rechercher des livres
+dans une bibliotheque donnee. Elle permet plus particulierement de faire des
+recherches par categorie(s), par expression dans le titre, par auteur, et par
+periode de publication.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 2
+
+*** RECHERCHE PAR TITRE ***
+
+Entrez le titre ou une partie du titre (<ENTREE> pour terminer) : 
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 2
+
+*** RECHERCHE PAR TITRE ***
+
+Entrez le titre ou une partie du titre (<ENTREE> pour terminer) : un
+
+Erreur, le titre doit contenir au moins 5 caracteres ! Recommencez...
+Entrez le titre ou une partie du titre (<ENTREE> pour terminer) : vie
+
+Erreur, le titre doit contenir au moins 5 caracteres ! Recommencez...
+Entrez le titre ou une partie du titre (<ENTREE> pour terminer) : 
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 2
+
+*** RECHERCHE PAR TITRE ***
+
+Entrez le titre ou une partie du titre (<ENTREE> pour terminer) : eter
+
+Erreur, le titre doit contenir au moins 5 caracteres ! Recommencez...
+Entrez le titre ou une partie du titre (<ENTREE> pour terminer) : etern
+
+REQUETE : Le titre contient l'expression ETERN
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- L'ETERNELLE VIE DE KRIOS (2002), S. PAQUET [ science fiction, thriller, humour, romance ]
+- LA FIN DE L'ETERNITE (2016), I. ASIMOV [ science fiction, romance, drame ]
+- LE LAMPADAIRE ETERNEL (2006), M. NATAF [ science ficiton, romance ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 2
+
+*** RECHERCHE PAR TITRE ***
+
+Entrez le titre ou une partie du titre (<ENTREE> pour terminer) : le village mort
+
+REQUETE : Le titre contient l'expression LE VILLAGE MORT
+
+AUCUN LIVRE TROUVE.
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 5
+
+
+AUREVOIR !

@@ -1,0 +1,191 @@
+Cette application permet d'executer diverses requetes pour rechercher des livres
+dans une bibliotheque donnee. Elle permet plus particulierement de faire des
+recherches par categorie(s), par expression dans le titre, par auteur, et par
+periode de publication.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 4
+
+*** RECHERCHE PAR PERIODE ***
+
+Entrez l'annee du debut de la periode (0 pour terminer) : 0
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 4
+
+*** RECHERCHE PAR PERIODE ***
+
+Entrez l'annee du debut de la periode (0 pour terminer) : 2000
+Entrez l'annee de la fin de la periode (0 pour terminer) : 0
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 4
+
+*** RECHERCHE PAR PERIODE ***
+
+Entrez l'annee du debut de la periode (0 pour terminer) : 1899
+
+Erreur, l'annee doit etre un entier entre 1900 et 2019 inclusivement! Recommencez...
+Entrez l'annee du debut de la periode (0 pour terminer) : 2020
+
+Erreur, l'annee doit etre un entier entre 1900 et 2019 inclusivement! Recommencez...
+Entrez l'annee du debut de la periode (0 pour terminer) : e
+
+Erreur, l'annee doit etre un entier entre 1900 et 2019 inclusivement! Recommencez...
+Entrez l'annee du debut de la periode (0 pour terminer) : 
+
+Erreur, l'annee doit etre un entier entre 1900 et 2019 inclusivement! Recommencez...
+Entrez l'annee du debut de la periode (0 pour terminer) : 2016
+Entrez l'annee de la fin de la periode (0 pour terminer) : 2015
+
+Erreur, l'annee doit etre un entier entre 2016 et 2019 inclusivement! Recommencez...
+Entrez l'annee de la fin de la periode (0 pour terminer) : 2020
+
+Erreur, l'annee doit etre un entier entre 2016 et 2019 inclusivement! Recommencez...
+Entrez l'annee de la fin de la periode (0 pour terminer) : R
+
+Erreur, l'annee doit etre un entier entre 2016 et 2019 inclusivement! Recommencez...
+Entrez l'annee de la fin de la periode (0 pour terminer) : 
+
+Erreur, l'annee doit etre un entier entre 2016 et 2019 inclusivement! Recommencez...
+Entrez l'annee de la fin de la periode (0 pour terminer) : 2018
+
+REQUETE : L'annee est entre 2016 et 2018
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- ORIGINE (2017), D. BROWN [ thriller, policier ]
+- ROMANCE ET DE SI BELLES FIANCAILLES (2018), M. H. CLARK [ thriller, policier, romance ]
+- LE TRICYCLE ROUGE (2018), V. HAUUY [ drame, policier ]
+- DOUBLE PIEGE (2018), H. COBEN [ thriller, policier ]
+- LA MORT N'EXISTE PAS (2018), D. ELEONORI [ science fiction, thriller ]
+- LE FILS CACHE DE LA LUNE (2018), E. NATAF [ science fiction, humour, thriller ]
+- LES NEUF VIES DE STEPHANIE PLUM (2016), J. EVANOVICH [ romance, policier, humour ]
+- L'INOUBLIABLE ETE DES JEUX DE SEDUCTION (2016), V. AUCLAIR [ humour, romance ]
+- RIEN NE VA PLUS CHEZ LES SPELLMAN! (2018), L. LUTZ [ humour, policier ]
+- DIX-SEPT ANS DE MALHEUR (2017), J. EVANOVICH [ policier, romance, humour ]
+- L'ETOILE DE PANDORE (2018), P. F. HAMILTON [ thriller, science fiction ]
+- LA FIN DE L'ETERNITE (2016), I. ASIMOV [ science fiction, romance, drame ]
+- L'ARAIGNEE EST UNE FINE MOUCHE (2016), E. TREDEZ [ policier, humour ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 4
+
+*** RECHERCHE PAR PERIODE ***
+
+Entrez l'annee du debut de la periode (0 pour terminer) : 1999
+Entrez l'annee de la fin de la periode (0 pour terminer) : 1999
+
+REQUETE : L'annee est 1999
+
+AUCUN LIVRE TROUVE.
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 4
+
+*** RECHERCHE PAR PERIODE ***
+
+Entrez l'annee du debut de la periode (0 pour terminer) : 2016
+Entrez l'annee de la fin de la periode (0 pour terminer) : 2016
+
+REQUETE : L'annee est 2016
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- LES NEUF VIES DE STEPHANIE PLUM (2016), J. EVANOVICH [ romance, policier, humour ]
+- L'INOUBLIABLE ETE DES JEUX DE SEDUCTION (2016), V. AUCLAIR [ humour, romance ]
+- LA FIN DE L'ETERNITE (2016), I. ASIMOV [ science fiction, romance, drame ]
+- L'ARAIGNEE EST UNE FINE MOUCHE (2016), E. TREDEZ [ policier, humour ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 4
+
+*** RECHERCHE PAR PERIODE ***
+
+Entrez l'annee du debut de la periode (0 pour terminer) : 1900
+Entrez l'annee de la fin de la periode (0 pour terminer) : 1990
+
+REQUETE : L'annee est entre 1900 et 1990
+
+AUCUN LIVRE TROUVE.
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 5
+
+
+AUREVOIR !

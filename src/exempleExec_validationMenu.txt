@@ -1,0 +1,79 @@
+Cette application permet d'executer diverses requetes pour rechercher des livres
+dans une bibliotheque donnee. Elle permet plus particulierement de faire des
+recherches par categorie(s), par expression dans le titre, par auteur, et par
+periode de publication.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 0
+Erreur, choix invalide! Recommencez...
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 6
+Erreur, choix invalide! Recommencez...
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 11
+Erreur, choix invalide! Recommencez...
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : a
+Erreur, choix invalide! Recommencez...
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 
+Erreur, choix invalide! Recommencez...
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 5
+
+
+AUREVOIR !

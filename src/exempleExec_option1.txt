@@ -1,0 +1,383 @@
+Cette application permet d'executer diverses requetes pour rechercher des livres
+dans une bibliotheque donnee. Elle permet plus particulierement de faire des
+recherches par categorie(s), par expression dans le titre, par auteur, et par
+periode de publication.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : 1
+
+Erreur, entrez C ou D ! Recommencez...
+Recherche par (C)onjonction ou (D)isjonction : s
+
+Erreur, entrez C ou D ! Recommencez...
+Recherche par (C)onjonction ou (D)isjonction : 
+
+Erreur, entrez C ou D ! Recommencez...
+Recherche par (C)onjonction ou (D)isjonction : CC
+
+Erreur, entrez C ou D ! Recommencez...
+Recherche par (C)onjonction ou (D)isjonction : dd
+
+Erreur, entrez C ou D ! Recommencez...
+Recherche par (C)onjonction ou (D)isjonction : C
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 0
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : c
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : -1
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : 7
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : 11
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : e
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : 
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : 0
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : C
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 3
+Entrez un numero de categorie (0 pour terminer) : 4
+Entrez un numero de categorie (0 pour terminer) : 0
+
+REQUETE : THRILLER et POLICIER
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- ORIGINE (2017), D. BROWN [ thriller, policier ]
+- ROMANCE ET DE SI BELLES FIANÇAILLES (2018), M. H. CLARK [ thriller, policier, romance ]
+- DOUBLE PIEGE (2018), H. COBEN [ thriller, policier ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : c
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 1
+Entrez un numero de categorie (0 pour terminer) : 2
+Entrez un numero de categorie (0 pour terminer) : 3
+Entrez un numero de categorie (0 pour terminer) : 4
+Entrez un numero de categorie (0 pour terminer) : 5
+Entrez un numero de categorie (0 pour terminer) : 6
+Entrez un numero de categorie (0 pour terminer) : 0
+
+REQUETE : SCIENCE FICTION et ROMANCE et THRILLER et POLICIER et HUMOUR et DRAME
+
+AUCUN LIVRE TROUVE.
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : C
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 1
+Entrez un numero de categorie (0 pour terminer) : 1
+Entrez un numero de categorie (0 pour terminer) : 1
+Entrez un numero de categorie (0 pour terminer) : 0
+
+REQUETE : SCIENCE FICTION
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- LA MORT N'EXISTE PAS (2018), D. ELEONORI [ science fiction, thriller ]
+- LE FILS CACHE DE LA LUNE (2018), E. NATAF [ science fiction, humour, thriller ]
+- FONDATION (2015), I. ASIMOV [ science fiction, drame ]
+- L'ETERNELLE VIE DE KRIOS (2002), S. PAQUET [ science fiction, thriller, humour, romance ]
+- L'ETOILE DE PANDORE (2018), P. F. HAMILTON [ thriller, science fiction ]
+- MARTIENS, GO HOME! (2000), F. BROWN [ science fiction, humour ]
+- LA FIN DE L'ETERNITE (2016), I. ASIMOV [ science fiction, romance, drame ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : D
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 0
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : d
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 1
+Entrez un numero de categorie (0 pour terminer) : 0
+
+REQUETE : SCIENCE FICTION
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- LA MORT N'EXISTE PAS (2018), D. ELEONORI [ science fiction, thriller ]
+- LE FILS CACHE DE LA LUNE (2018), E. NATAF [ science fiction, humour, thriller ]
+- FONDATION (2015), I. ASIMOV [ science fiction, drame ]
+- L'ETERNELLE VIE DE KRIOS (2002), S. PAQUET [ science fiction, thriller, humour, romance ]
+- L'ETOILE DE PANDORE (2018), P. F. HAMILTON [ thriller, science fiction ]
+- MARTIENS, GO HOME! (2000), F. BROWN [ science fiction, humour ]
+- LA FIN DE L'ETERNITE (2016), I. ASIMOV [ science fiction, romance, drame ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : D
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 2
+Entrez un numero de categorie (0 pour terminer) : 6
+Entrez un numero de categorie (0 pour terminer) : 5
+Entrez un numero de categorie (0 pour terminer) : 0
+
+REQUETE : ROMANCE ou DRAME ou HUMOUR
+
+RESULTAT(S) DE RECHERCHE :
+--------------------------
+- ROMANCE ET DE SI BELLES FIANÇAILLES (2018), M. H. CLARK [ thriller, policier, romance ]
+- LE TRICYCLE ROUGE (2018), V. HAUUY [ drame, policier ]
+- LE FILS CACHE DE LA LUNE (2018), E. NATAF [ science fiction, humour, thriller ]
+- LES NEUF VIES DE STEPHANIE PLUM (2016), J. EVANOVICH [ romance, policier, humour ]
+- L'INOUBLIABLE ETE DES JEUX DE SEDUCTION (2016), V. AUCLAIR [ humour, romance ]
+- LA PETULANTE ASCENSION DE BENJAMIN FABRE (2014), F. LEHMAN [ humour ]
+- RIEN NE VA PLUS CHEZ LES SPELLMAN! (2018), L. LUTZ [ humour, policier ]
+- UNE VIE INUTILE (2012), S. PAQUET [ humour ]
+- DIX-SEPT ANS DE MALHEUR (2017), J. EVANOVICH [ policier, romance, humour ]
+- FONDATION (2015), I. ASIMOV [ science fiction, drame ]
+- L'ETERNELLE VIE DE KRIOS (2002), S. PAQUET [ science fiction, thriller, humour, romance ]
+- MARTIENS, GO HOME! (2000), F. BROWN [ science fiction, humour ]
+- LA FIN DE L'ETERNITE (2016), I. ASIMOV [ science fiction, romance, drame ]
+- L'ARAIGNEE EST UNE FINE MOUCHE (2016), E. TREDEZ [ policier, humour ]
+- LE LAMPADAIRE ETERNEL (2006), M. NATAF [ science ficiton, romance ]
+- UNE MINUTE A LA MER (2010), V. C. BROWN [ humour, thriller ]
+- BROWN SUGAR (2015), H. HOWARD [ humour ]
+
+Tapez <ENTREE> pour revenir au menu de recherche... 
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 1
+
+*** RECHERCHE PAR CATEGORIE(S) ***
+
+Recherche par (C)onjonction ou (D)isjonction : D
+
+LISTE DES CATEGORIES :
+   1. Science fiction
+   2. Romance
+   3. Thriller
+   4. Policier
+   5. Humour
+   6. Drame
+
+Entrez un numero de categorie (0 pour terminer) : 11
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : e
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : 
+
+Erreur, numero de categorie invalide! Recommencez...
+Entrez un numero de categorie (0 pour terminer) : 0
+
+RECHERCHE ANNULEE.
+
+
+-----------------
+MENU DE RECHERCHE
+-----------------
+1. Recherche par categorie(s)
+2. Recherche par titre
+3. Recherche par auteur
+4. Recherche par periode
+5. Quitter
+
+Entrez votre choix : 5
+
+
+AUREVOIR !
